@@ -719,7 +719,7 @@ ul{
 }
 .sponsors li figure{
   width: 180px;
-  height: 180px;
+  /*height: 180px;*/
   display: inline-block;
   margin:0 0 30px;
   overflow: hidden;
