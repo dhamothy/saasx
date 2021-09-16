@@ -6,7 +6,8 @@ body{
 input{
   background: none;
 }
-[class*="Input__InputWrapper"]{
+[class*="Input__InputWrapper"],
+[class*="Dropdown__DropdownHeader"]{
   border-width: 1px;
   height: 48px;
 }
