@@ -6,11 +6,7 @@ body{
 input{
   background: none;
 }
-.hGZrMW,
-.bTFtPJ,
-.fkTEoU,
-.loIaIS,
-.kvGNbE{
+[class~="Input__InputWrapper"]{
   border-width: 1px;
   height: 48px;
 }
