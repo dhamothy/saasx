@@ -6,7 +6,7 @@ body{
 input{
   background: none;
 }
-[class~="Input__InputWrapper"]{
+[class*="Input__InputWrapper"]{
   border-width: 1px;
   height: 48px;
 }
