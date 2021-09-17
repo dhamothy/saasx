@@ -11,6 +11,9 @@ input{
   border-width: 1px;
   height: 48px;
 }
+[class*="Input__Label"]{
+  color: #718096;
+}
 .cVteUb{
   padding: 0;
 }
