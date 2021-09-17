@@ -14,9 +14,14 @@ input{
 [class*="Input__Label"]{
   color: #718096;
 }
+[class*="styles__Content"],
 .cVteUb{
   padding: 0;
 }
+[class*="styles__LeftSide"],
 .iROagG{
   width: 100%;
+}
+[class*="List__Row"]{
+  font-size: 1rem;
 }
